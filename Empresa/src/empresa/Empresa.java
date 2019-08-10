@@ -20,17 +20,19 @@ public class Empresa {
         
         JOptionPane.showMessageDialog(null, "probando :v ");
          JOptionPane.showMessageDialog(null, "probando :v ");
-         JOptionPane.showMessageDialog(null, "probando :v ");
+         JOptionPane.showMessageDialog(null, "jajajaja");
         
          
          
         JOptionPane.showMessageDialog(null, "si puedo ver tu probando");
         
         
+        
+        
         JOptionPane.showMessageDialog(null, "cambio exitoso :v");
         
         //Enviado nn comentario de alexisD a dev :v
-        //
+        //jajajajajajajajaja xd xd xd
     }
     
 }
