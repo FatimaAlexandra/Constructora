@@ -5,6 +5,8 @@
  */
 package empresa;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Alexandra
@@ -18,6 +20,11 @@ public class Empresa {
         // TODO code application logic here
         System.out.println("Hola a todos c: ");
         
+        //alexis prueba 1
+        JOptionPane.showMessageDialog(null, "todo bien, todo correcto? :v");
+        
     }
+    
+    
     
 }
